@@ -4,7 +4,7 @@ __Hello.__ I'm Marc. I live in Japan. 🍣
 
 __Project(s) I'm working on__
  - [Pengin-pi Open Source Trainee](https://github.com/Pengin-Open-Source/pengin-pi)
- - [Maebe Intern](https://maebe.jp/)
+ - [Maebe Trainee](https://maebe.jp/)
 
 __Things I know to some extent__
  - Python (Flask, Django, SQLalchemy, Matplotlib, Pygame, Jinja, Bootstrap, venv, etc.)
