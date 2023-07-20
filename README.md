@@ -9,7 +9,8 @@ __Project(s) I'm working on__
 __Things I know to some extent__
  - Python (Flask, Django, SQLalchemy, Matplotlib, Pygame, Jinja, Bootstrap, venv, etc.)
  - Git (In terminal, Github, Gitlab, Sourcetree)
- - UX (Design Thinking Process, User research, Empathy Maps, Wireframes/Prototypes in Figma, XD, Iterating, Usability testing)
+ - UX (Design Thinking Process, User research, Empathy Maps,
+    Wireframes/Prototypes in Figma, XD, Iterating, Usability testing)
  - 2D/3D Design & Editing (Photoshop, Sketchup)
  
 __Things I'm figuring out__
