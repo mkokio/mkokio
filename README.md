@@ -30,7 +30,7 @@ __Bit More About Me__
  - Creativity is a big thing for me, from drawing silly pictures to woodworking fixtures.
  - Repairing things is the way to be, from a hole in my shoe to my old Subaru.
  - Cooking quite often is definitely the key, from mapo tofu on rice to the perfect pizza slice.
- - Bicycles equal happiness; I guarantee, from downhill-shredding thrills to winter-morning-commute chills.
+ - Bicycles equal happiness; I guarantee, from downhill-shredding thrills to winter-commute chills.
  - The ocean and sunshine will set you free, from surfing that gnarly right, to snorkeling at night. 
 
 __Recent interesting thing(s) I've learned__
