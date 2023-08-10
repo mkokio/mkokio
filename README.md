@@ -23,11 +23,11 @@ __Things I'm figuring out__
 __Random Links__
  - [git.m-dev.work/marccocchio](http://git.m-dev.work/marccocchio)
  - [github.com/mkokio](https://github.com/mkokio)
- - [marccocchio.com](https://www.marccocchio.com)
+ - [marccocchio.com](https://www.marccocchio.com) (portfolio)
  - [mkokio.github.io/](https://mkokio.github.io/) (likely practice junk now...)
  - [linkedin.com/in/mkokio/](https://www.linkedin.com/in/mkokio/)
- - [marccocchio.medium.com/](https://marccocchio.medium.com/)
- - [Crab eat Donuts (Scratch game)](https://scratch.mit.edu/projects/879641242)
+ - [marccocchio.medium.com/](https://marccocchio.medium.com/) (sporadic and casual writings)
+ - [Crab eat Donuts](https://scratch.mit.edu/projects/879641242) (Scratch game)
 
 __Bit More About Me__
  - Creativity is a big thing for me, from drawing silly pictures to woodworking fixtures.
