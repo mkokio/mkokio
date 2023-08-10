@@ -6,18 +6,19 @@ __Things(s) I'm working on__
  - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) [(日本語)](https://cs50.jp/)
  - [Pengin-pi Open Source Trainee](https://github.com/Pengin-Open-Source/pengin-pi)
  - [Maebe Trainee](https://maebe.jp/)
+ - [Kali: Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)
 
 __Things I know to some extent__
  - Python (Flask, Django, SQLalchemy, Matplotlib, Pygame, Jinja, Bootstrap, venv, etc.)
  - Git (In terminal, Github, Gitlab, Sourcetree)
- - UX (Design Thinking Process, User research, Empathy Maps, Wireframes/Prototypes in Figma, XD, Iterating, Usability testing)
+ - Linux (Fedora 38 currently)
+ - UX (Design Thinking Process, User research, Empathy Maps,Figma Wireframes/Prototypes, XD, Iterating, Usability testing)
  - 2D/3D Design & Editing (Photoshop, Sketchup)
  
 __Things I'm figuring out__
- - Fedora and Kali
+ - Kali
  - Docker
- - XAMMP
- - PHP (Symfony, Composer)
+ - PHP (Laravel framework)
 
 __Random Links__
  - [git.m-dev.work/marccocchio](http://git.m-dev.work/marccocchio)
