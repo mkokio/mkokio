@@ -1,6 +1,6 @@
 >Y'ever seen a kid running around, popping bubbles? _That_ is living in the moment.
 
-__Hello.__ I'm Marc. I live in Japan. 🍣
+__Hello.__ I'm Marc. I live in Japan. 🇨🇦➡️🇯🇵 
 
 __Things(s) I'm working on__
  - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) [(日本語)](https://cs50.jp/)
