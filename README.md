@@ -30,7 +30,7 @@ __Random Links__
  - [marccocchio.medium.com/](https://marccocchio.medium.com/) (sporadic and casual writings)
  - [Crab eat Donuts](https://scratch.mit.edu/projects/879641242) (Scratch game)
  - [Google UX Design Professional Certificate](https://coursera.org/share/c77541abd0c35b1bfc6b87fd025ba15d) (7 Courses)
- - [Create an interactive fiction adventure game with Python](https://github.com/mkokio/castle_and_orc) ([Coursera Project]((https://coursera.org/share/26c533a52121ae58bcdeeafad89f03f4)))
+ - [Create an interactive fiction adventure game with Python](https://github.com/mkokio/castle_and_orc) ([Coursera](https://coursera.org/share/26c533a52121ae58bcdeeafad89f03f4) project)
 
 __Bit More About Me__
  - Creativity is a big thing for me, from drawing silly pictures to woodworking fixtures.
