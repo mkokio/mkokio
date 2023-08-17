@@ -3,7 +3,7 @@
 __Hello.__ I'm Marc. I live in Japan. 🇨🇦➡️🇯🇵 
 
 __Things(s) I'm working on__
- - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) [(日本語)](https://cs50.jp/)
+ - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([日本語])(https://cs50.jp/)
  - [Pengin-pi Open Source Trainee](https://github.com/Pengin-Open-Source/pengin-pi)
  - [Maebe Trainee](https://maebe.jp/)
  - [Kali: Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)
