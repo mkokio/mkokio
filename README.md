@@ -4,6 +4,7 @@ __Hello.__ I'm Marc. I live in Japan. 🇨🇦➡️🇯🇵
 I like bicycles, woodworking, surfing, drawing and motorcycles.
 
 __Things(s) I'm working on__
+ - [Kawane Event Calendar] (https://github.com/mkokio/Kawane_Events) Hosts in this small town can publish their events to one central Calendar for all to see.
  - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([日本語](https://cs50.jp/))
  - [Pengin-pi Open Source Trainee](https://github.com/Pengin-Open-Source/pengin-pi)
  - [Maebe Trainee](https://maebe.jp/) ([Learning Laravel currently](https://github.com/mkokio/laravel_chirper))
