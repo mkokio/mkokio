@@ -3,7 +3,7 @@
 __Hello.__ I'm Marc. I live in Japan. 🇨🇦➡️🇯🇵 
 I like bicycles, woodworking, surfing, drawing and motorcycles.
 
-__Things(s) I'm working on__
+__Things I'm working on__
  - [Kawane Event Calendar](https://github.com/mkokio/Kawane_Events) Hosts in this small town can publish their events to one central Calendar for all to see.
  - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([日本語](https://cs50.jp/))
  - [Pengin-pi Open Source Trainee](https://github.com/Pengin-Open-Source/pengin-pi)
@@ -22,11 +22,6 @@ __Things I know to some extent__
 __Things I'm figuring out__
  - Kali
  - Docker
-
-__Tech-related Misc.__
- - Built and maintained local tourism company's website eclat.com (now unavailable)
- - Created and maintained a monthly-updated blog for izuenglishrunningclub.com from 2012 to 2019 (now unavailable)
- - Made websites (mostly webcomics) using notepad in the late 90s, early 2000s (long gone)
 
 __Random Links__
  - [git.m-dev.work/marccocchio](http://git.m-dev.work/marccocchio)
@@ -47,6 +42,11 @@ __Bit More About Me__
  - Bicycles equal happiness; I guarantee, from downhill-shredding thrills to winter-commute chills.
  - The ocean and sunshine will set you free, from surfing that gnarly right, to snorkeling at night. 
 -->
+__Tech-related Misc.__
+ - Built and maintained local tourism company's website eclat.com (now unavailable)
+ - Created and maintained a monthly-updated blog for izuenglishrunningclub.com from 2012 to 2019 (now unavailable)
+ - Made websites (mostly webcomics) using notepad in the late 90s, early 2000s (long gone)
+
 __Recent interesting thing(s) I've learned__
  - 🐍Polymorphing classes in Python.
  - 🤿You can swim through an 18-meter-long bioluminescent tube of zooid clones called a pyrosome. Water is sucked up at one end and propelled out the other.
