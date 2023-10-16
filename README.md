@@ -12,16 +12,21 @@ __Things(s) I'm working on__
 
 __Things I know to some extent__
  - Python (Flask, Django, SQLalchemy, Matplotlib, Pygame, Jinja, Bootstrap, venv, etc.)
+ - PHP (Laravel, Breeze, Tailwind, Eloquent ORM, Blade)
  - C (Basic syntax and operations)
  - Git (In terminal, Github, Gitlab, Sourcetree)
- - Linux (Fedora 38 currently)
+ - Linux (Fedora 38 currently on a Microsoft Surface)
  - UX (Design Thinking Process, User research, Empathy Maps,Figma Wireframes/Prototypes, XD, Iterating, Usability testing)
  - 2D/3D Design & Editing (Photoshop, [Sketchup](https://coursera.org/share/2eb79a30703184c9c97dc76174842f3c))
  
 __Things I'm figuring out__
  - Kali
  - Docker
- - PHP ([Laravel](https://github.com/mkokio/laravel_chirper) framework)
+
+__Tech-related Misc.__
+ - Built and maintained local tourism company's website eclat.com (now unavailable)
+ - Created and maintained a monthly-updated blog for izuenglishrunningclub.com from 2012 to 2019 (now unavailable)
+ - Made websites (mostly webcomics) using notepad in the late 90s, early 2000s (long gone)
 
 __Random Links__
  - [git.m-dev.work/marccocchio](http://git.m-dev.work/marccocchio)
