@@ -42,7 +42,8 @@ __Bit More About Me__
  - Bicycles equal happiness; I guarantee, from downhill-shredding thrills to winter-commute chills.
  - The ocean and sunshine will set you free, from surfing that gnarly right, to snorkeling at night. 
 -->
-__Tech-related Misc.__
+__Adjacent Misc.__
+ - Created weekly art and accompanying essays at [TotoroTuesday](https://www.instagram.com/totorotuesday/) from 2020 to 2022
  - Built and maintained local tourism company's website eclat.com (now unavailable)
  - Created and maintained a monthly-updated blog for izuenglishrunningclub.com from 2012 to 2019 (now unavailable)
  - Made websites (mostly webcomics) using notepad in the late 90s, early 2000s (long gone)
