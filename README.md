@@ -6,7 +6,6 @@ I like bicycles, woodworking, surfing, drawing and motorcycles.
 __Things I'm working on__
  - [Kawane Event Calendar](https://github.com/mkokio/Kawane_Events) Hosts in this small town can publish their events to one central Calendar for all to see.
  - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([日本語](https://cs50.jp/))
- - [Pengin-pi Open Source Trainee](https://github.com/Pengin-Open-Source/pengin-pi)
  - [Maebe Trainee](https://maebe.jp/) ([Learning Laravel currently](https://github.com/mkokio/laravel_chirper))
  - [Kali: Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)
 
@@ -29,6 +28,7 @@ __Random Links__
  - [marccocchio.com](https://www.marccocchio.com) (portfolio)
  - [mkokio.github.io/](https://mkokio.github.io/) (likely practice junk now...)
  - [linkedin.com/in/mkokio/](https://www.linkedin.com/in/mkokio/)
+ - [Open Source Internship - Pengin-Pi](https://github.com/Pengin-Open-Source/pengin-pi) (4/23 to 10/23)
  - [marccocchio.medium.com/](https://marccocchio.medium.com/) (sporadic and casual writings)
  - [Crab eat Donuts](https://scratch.mit.edu/projects/879641242) (Scratch game)
  - [Google UX Design Professional Certificate](https://coursera.org/share/c77541abd0c35b1bfc6b87fd025ba15d) (7 Courses)
