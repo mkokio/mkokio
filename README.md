@@ -30,7 +30,7 @@ __Random Links__
  - [linkedin.com/in/mkokio/](https://www.linkedin.com/in/mkokio/)
  - [Open Source Internship - Pengin-Pi](https://github.com/Pengin-Open-Source/pengin-pi) (4/23 to 10/23)
  - [marccocchio.medium.com/](https://marccocchio.medium.com/) (sporadic and casual writings)
- - [Crab eat Donuts](https://scratch.mit.edu/projects/879641242) (Scratch game)
+ - [Crab eat Donuts](https://scratch.mit.edu/projects/879641242) (Scratch game) and [pizzaeraser](https://scratch.mit.edu/projects/934282962/) ([Touch Screen Variation](https://scratch.mit.edu/projects/934456401/))
  - [Google UX Design Professional Certificate](https://coursera.org/share/c77541abd0c35b1bfc6b87fd025ba15d) (7 Courses)
  - [Create an interactive fiction adventure game with Python](https://github.com/mkokio/castle_and_orc) ([Coursera](https://coursera.org/share/26c533a52121ae58bcdeeafad89f03f4) project)
 
