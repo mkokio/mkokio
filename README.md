@@ -6,7 +6,7 @@ I like bicycles, woodworking, surfing, drawing and motorcycles.
 __Things I'm working on__
  - [Kawane Event Calendar](https://kawane.events/)::[Repo](https://github.com/mkokio/Kawane_Events) Hosts publish events to central Calendar. (PHP, Laravel, Bootstrap, Blade, GCS Fedora VM, MySQL, Heroku, AWS)
  - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([日本語](https://cs50.jp/))
- - [Maebe Trainee](https://maebe.jp/) (PHP, Laravel, Blade, EloquentORM, Bootstrap, Breeze, Google Calendar API)
+ - [Maebe Trainee & Freelance Dev](https://maebe.jp/) (PHP, Laravel, Blade, EloquentORM, Bootstrap, Breeze, Google Calendar API)
  - [Kali: Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)
 
 __Things I know to some extent__
