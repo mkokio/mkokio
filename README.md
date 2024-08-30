@@ -4,10 +4,10 @@ __Hello.__ I'm Marc. I live in Japan. 🇨🇦➡️🇯🇵
 I like bicycles, woodworking, surfing, drawing and motorcycles.
 
 __Things I'm working on__
- - [Kawane Event Calendar](https://kawane.events/)::[Repo](https://github.com/mkokio/Kawane_Events) Hosts publish events to central Calendar. (PHP, Laravel, Bootstrap, Blade, GCS Fedora VM, MySQL, Heroku, AWS)
- - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([日本語](https://cs50.jp/)) - [Repo](https://github.com/mkokio/cs50x)
- - [Maebe Trainee & Freelance Dev](https://maebe.jp/) (PHP, Laravel, Blade, EloquentORM, Bootstrap, Breeze, Google Calendar API)
- - [Kali: Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)
+ - [Django in Action](https://www.manning.com/books/django-in-action): I want to learn htmx
+ - [Odin Project](https://www.theodinproject.com/): So good for remembering foundations
+
+ 
 
 __Things I know to some extent__
  - Python (Flask, Django, SQLalchemy, Matplotlib, Pygame, Jinja, Bootstrap, venv, etc.)
@@ -18,14 +18,12 @@ __Things I know to some extent__
  - Linux (Fedora 38 currently on a Microsoft Surface) and virtual machines
  - UX (Design Thinking Process, User research, Empathy Maps,Figma Wireframes/Prototypes, XD, Iterating, Usability testing)
  - 2D/3D Design & Editing (Photoshop, [Sketchup](https://coursera.org/share/2eb79a30703184c9c97dc76174842f3c))
- 
-__Things I'm figuring out__
- - Kali
- - Docker
 
 __Random Accomplishments and More__
- - [git.m-dev.work/marccocchio](http://git.m-dev.work/marccocchio)
+ - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([日本語](https://cs50.jp/)) - [Repo](https://github.com/mkokio/cs50x)
  - [github.com/mkokio](https://github.com/mkokio)
+ - [Kawane Event Calendar](https://kawane.events/)::[Repo](https://github.com/mkokio/Kawane_Events) Hosts publish events to central Calendar. (PHP, Laravel, Bootstrap, Blade, Heroku)
+ - [HTML5 Study Site made with Django](https://mkokio.pythonanywhere.com/)
  - [marccocchio.com](https://www.marccocchio.com) (portfolio)
  - [mkokio.github.io/](https://mkokio.github.io/) (likely practice junk now...)
  - [linkedin.com/in/mkokio/](https://www.linkedin.com/in/mkokio/)
@@ -34,6 +32,7 @@ __Random Accomplishments and More__
  - [Crab eat Donuts](https://scratch.mit.edu/projects/879641242) and [pizzaeraser](https://scratch.mit.edu/projects/934282962/) ([Touch Screen Variation](https://scratch.mit.edu/projects/934456401/)) (Scratch games)
  - [Google UX Design Professional Certificate](https://coursera.org/share/c77541abd0c35b1bfc6b87fd025ba15d) (7 Courses)
  - [Create an interactive fiction adventure game with Python](https://github.com/mkokio/castle_and_orc) ([Coursera](https://coursera.org/share/26c533a52121ae58bcdeeafad89f03f4) project)
+ - [TotoroTuesday](https://www.instagram.com/totorotuesday/) since 2020
 
 <!--
 __Bit More About Me__
@@ -42,14 +41,9 @@ __Bit More About Me__
  - Cooking quite often is definitely the key, from mapo tofu on rice to the perfect pizza slice.
  - Bicycles equal happiness; I guarantee, from downhill-shredding thrills to winter-commute chills.
  - The ocean and sunshine will set you free, from surfing that gnarly right, to snorkeling at night. 
--->
-__Adjacent Misc.__
- - Creating weekly art and accompanying essays at [TotoroTuesday](https://www.instagram.com/totorotuesday/) since 2020
- - Built and maintained local tourism company's website eclat.com (now unavailable)
- - Created and maintained a monthly-updated blog for izuenglishrunningclub.com from 2012 to 2019 (now unavailable)
- - Made websites (mostly webcomics) using notepad in the late 90s, early 2000s (long gone)
 
 __Recent interesting thing(s) I've learned__
  - 🐍Polymorphing classes in Python.
  - 🤿You can swim through an 18-meter-long bioluminescent tube of zooid clones called a pyrosome. Water is sucked up at one end and propelled out the other.
  - 🕯Breathe in through your nose and out your mouth, strong enough to flicker a candle flame but not blow it out.
+ -->
