@@ -10,8 +10,8 @@ __Things I'm working on__
  
 
 __Things I know to some extent__
- - Python (Flask, Django, SQLalchemy, Matplotlib, Pygame, Jinja, Bootstrap, venv, etc.)
- - PHP (Laravel, Breeze, Tailwind, Eloquent ORM, Blade)
+ - Python (Flask, Django...)
+ - PHP (Laravel)
  - Html, javascript, css
  - C (Basic syntax and operations)
  - Git (In terminal, Github, Gitlab, Sourcetree)
