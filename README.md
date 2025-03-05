@@ -4,27 +4,28 @@ __Hello.__ I'm Marc. I live in Japan. 🇨🇦➡️🇯🇵
 I like bicycles, woodworking, surfing, drawing and motorcycles.
 
 __Things I'm working on__
- - [Django in Action](https://www.manning.com/books/django-in-action): I want to learn htmx
- - [Odin Project](https://www.theodinproject.com/): So good for remembering foundations
-
- 
+ - [Django in Action](https://www.manning.com/books/django-in-action): I learned htmx in a Laravel project, but wanna do it in Django
 
 __Things I know to some extent__
- - Python (Flask, Django...)
- - PHP (Laravel)
+ - Python (Flask, Django, Scrapy, Celery...)
+ - PHP (Laravel, cakePHP)
  - Html, javascript, css
  - C (Basic syntax and operations)
  - Git (In terminal, Github, Gitlab, Sourcetree)
- - Linux (Fedora 38 currently on a Microsoft Surface) and virtual machines
+ - Linux (Fedora 40 currently on a Microsoft Surface) and virtual machines, ssh, Plesk
  - UX (Design Thinking Process, User research, Empathy Maps,Figma Wireframes/Prototypes, XD, Iterating, Usability testing)
  - 2D/3D Design & Editing (Photoshop, [Sketchup](https://coursera.org/share/2eb79a30703184c9c97dc76174842f3c))
+ - 3D printing (tinkercad, etc.) on my Bambu printer
+ - Bicycle, Motorcycle and Automobile maintenance
+ - Japanese and French
 
 __Random Accomplishments and More__
  - [Harvard's CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science) ([日本語](https://cs50.jp/)) - [Repo](https://github.com/mkokio/cs50x)
+ - [Odin Project](https://www.theodinproject.com/): This was great for foundation review
  - [github.com/mkokio](https://github.com/mkokio)
- - [Kawane Event Calendar](https://kawane.events/)::[Repo](https://github.com/mkokio/Kawane_Events) Hosts publish events to central Calendar. (PHP, Laravel, Bootstrap, Blade, Heroku)
+ - [Kawane Event Calendar](https://kawane.events/)::[Repo](https://github.com/mkokio/Kawane_Events) Hosts publish events to central Calendar. (PHP, Laravel, Bootstrap, Blade, Heroku) *NOT UP
  - [HTML5 Study Site made with Django](https://mkokio.pythonanywhere.com/)
- - [marccocchio.com](https://www.marccocchio.com) (portfolio)
+ - [marccocchio.com](https://www.marccocchio.com) (portfolio) *NOT UP
  - [mkokio.github.io/](https://mkokio.github.io/) (likely practice junk now...)
  - [linkedin.com/in/mkokio/](https://www.linkedin.com/in/mkokio/)
  - [Open Source Internship - Pengin-Pi](https://github.com/Pengin-Open-Source/pengin-pi) (4/23 to 10/23)
